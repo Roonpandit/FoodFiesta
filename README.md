@@ -71,6 +71,19 @@ Each branch in the FoodFiesta project serves a specific purpose and corresponds 
 
 - **`feature-payment-system`**: Manages payment processing. Contains code for handling payment transactions, validating payment details, and updating payment statuses.
 
+## Git Commands Used
+
+Throughout the development of FoodFiesta, the following Git commands were utilized to manage the version control and collaboration process:
+
+- **`git clone`**: To clone the repository from GitHub to the local machine.
+- **`git checkout -b`**: To create and switch to a new branch for feature development or bug fixes.
+- **`git add`**: To stage changes in the working directory for the next commit.
+- **`git commit -m`**: To commit staged changes with a descriptive message.
+- **`git push origin`**: To push the current branch to the remote repository on GitHub.
+- **`git pull origin main`**: To update the current branch with the latest changes from the main branch.
+- **`git log`**: To view the commit history and track changes made to the project.
+- **`git status`**: To check the current state of the workspace, including staged, unstaged, and untracked files.
+
 ## Challenges Encountered
 
 Throughout the development of FoodFiesta, several challenges were encountered and addressed:

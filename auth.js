@@ -39,4 +39,3 @@ const users = [
   }
   
   module.exports = { login, register };
-  

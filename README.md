@@ -24,21 +24,21 @@ The FoodFiesta project is a collaborative effort by a skilled team, each bringin
 
 - **Tarun Vashisth** - *Frontend Developer*
 
-        Tarun specializes in creating intuitive and responsive user interfaces. He is proficient in HTML, CSS, and JavaScript, and has a keen eye for design. In FoodFiesta, he is responsible for building the user-facing side of the application, ensuring a seamless and visually appealing experience for users.
+   Tarun specializes in creating intuitive and responsive user interfaces. He is proficient in HTML, CSS, and JavaScript, and has a keen eye for design. In FoodFiesta, he is responsible for building the user-facing side of the application, ensuring a seamless and visually appealing experience for users.
 
   - **Responsibilities**: Designing and implementing the user interface using HTML, CSS, and JavaScript. Ensures the application is responsive, accessible, and visually engaging.
   - **Expertise**: HTML5, CSS3, JavaScript, UX/UI Design.
 
 - **Jai Deep** - *Backend Developer*
 
-        Jai is an experienced backend developer with expertise in Node.js and Express. He handles the server-side logic of FoodFiesta, ensuring that data flows smoothly between the frontend and the database. Jai's role includes developing APIs, managing database interactions, and implementing security features.
+  Jai is an experienced backend developer with expertise in Node.js and Express. He handles the server-side logic of FoodFiesta, ensuring that data flows smoothly between the frontend and the database. Jai's role includes developing APIs, managing database interactions, and implementing security features.
 
   - **Responsibilities**: Developing server-side logic and APIs using Node.js and Express. Manages database interactions, implements authentication, and ensures data integrity.
   - **Expertise**: Node.js, Express.js, Database Management, API Development.
 
 - **Rahul Sharma** - *DevOps Engineer*
 
-      Rahul is a skilled DevOps engineer who focuses on automating and streamlining the deployment process. He is responsible for setting up continuous integration and delivery pipelines, managing the application's infrastructure, and ensuring that FoodFiesta runs smoothly in production. Rahul also handles the monitoring and scaling of the application.
+  Rahul is a skilled DevOps engineer who focuses on automating and streamlining the deployment process. He is responsible for setting up continuous integration and delivery pipelines, managing the application's infrastructure, and ensuring that FoodFiesta runs smoothly in production. Rahul also handles the monitoring and scaling of the application.
 
   - **Responsibilities**: Automating deployment processes, setting up CI/CD pipelines, and managing application infrastructure. Focuses on performance monitoring and scalability.
   - **Expertise**: CI/CD, Docker, Kubernetes, Infrastructure Management.

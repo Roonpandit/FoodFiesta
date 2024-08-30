@@ -1,7 +1,7 @@
 // User Authentication Code
 
 /**
- * Dummy user data (in a real application, this would be stored in a database).
+ * Dummy users data (in a real application, this would be stored in a database).
  */
 const users = [
     { username: 'user1', password: 'password123' },
